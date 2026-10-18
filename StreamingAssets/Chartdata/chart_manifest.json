@@ -1,15 +1,16 @@
 {
-    "version": "ac0b0b8376e0c526",
+    "version": "b1e781ad9e5dc615",
     "charts": [
         "Doodle_knot.json",
         "Doodle_tangle.json",
+        "Doodle_trace.json",
         "Morning_knot.json",
         "Morning_tangle.json",
         "Morning_trace.json",
         "REsPoNsE_knot.json",
         "Recess_Clash_knot.json",
         "Shining_Star_knot.json",
-        "Shining_Star_trace.json"
+        "Shining_Star_tangle.json"
     ],
     "songs": [
         "Songs/Doodle.json",
@@ -20,6 +21,7 @@
     "jackets": [
         "Jackets/doodle.png",
         "Jackets/recess_clash.png",
-        "Jackets/response.png"
+        "Jackets/response.png",
+        "Jackets/shining_star.png"
     ]
 }
