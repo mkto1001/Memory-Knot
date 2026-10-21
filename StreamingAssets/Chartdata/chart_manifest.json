@@ -1,5 +1,5 @@
 {
-    "version": "5a9af51bd413cdfe",
+    "version": "2a0021a5c17fadd3",
     "charts": [
         "Morning_knot.json",
         "Morning_tangle.json",
@@ -10,13 +10,15 @@
         "Shining_Star_tangle.json",
         "doodle_knot.json",
         "doodle_tangle.json",
-        "doodle_trace.json"
+        "doodle_trace.json",
+        "inmuking.json"
     ],
     "songs": [
         "Songs/REsPoNsE.json",
         "Songs/Recess_Clash.json",
         "Songs/Shining_Star.json",
-        "Songs/doodle.json"
+        "Songs/doodle.json",
+        "Songs/inmuking.json"
     ],
     "jackets": [
         "Jackets/doodle.png",
